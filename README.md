@@ -20,5 +20,3 @@ Feito durante a formação Java da [Alura](https://www.alura.com.br/formacao-jav
 
 **Paulo César dos Santos Morais**
 Estudante de Engenharia de Software na FIAP
-
-- LinkedIn: [adicione seu link aqui]
