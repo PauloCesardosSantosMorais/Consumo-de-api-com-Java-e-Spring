@@ -16,15 +16,6 @@ Feito durante a formação Java da [Alura](https://www.alura.com.br/formacao-jav
 - Spring Boot
 - Maven
 
-## Como rodar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/SEU_USUARIO/screenmatch.git
-   ```
-2. Abra o projeto na sua IDE (IntelliJ, por exemplo).
-3. Execute a classe `ScreenmatchApplication`.
-
 ## Autor
 
 **Paulo César dos Santos Morais**
